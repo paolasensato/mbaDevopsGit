@@ -6,3 +6,4 @@ Projeto realizado na aula de git no MBA Devops
  * Configuração SSH
  * Git clone
  * Git commit
+ * Git checkout
